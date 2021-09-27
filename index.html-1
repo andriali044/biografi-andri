@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>anli</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <center>
+  <h1>BIOGRAFI</H1>
+  </center>
+  <H3>Andri Ali Rahman</h3>
+  <hr>
+  <body>
+    <script src="script.js"></script>
+    <div class="heade-list">
+      <ul>
+        <li>tentang</li>
+        <li>hobi</li>
+        <li>pendidikan</li>
+      </ul>
+      <p>Alasan saya belajar <strong>bahasa pemograman</strong> agar bisa membuat <em>Website</em> sendiri.</p>
+      <h5>kunjungi instagram saya <a href="https://instagra.com">AndriAliRahman.com</a></h5>
+  </body>
+</html>
