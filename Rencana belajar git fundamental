@@ -1,5 +1,7 @@
 Rencana belajar git fundamental
 git branch: Melihat semua branch (local)
+*index.html
+*setting html
 git branch --all: Melihat semua branch (public)
 git branch nama_branch: membuta branch baru
 git checkout nama_branch: untuk berpindah branch
