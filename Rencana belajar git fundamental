@@ -1,0 +1,12 @@
+Rencana belajar git fundamental
+git branch: Melihat semua branch (local)
+*index.html
+*setting html
+git branch --all: Melihat semua branch (public)
+git branch nama_branch: membuta branch baru
+git checkout nama_branch: untuk berpindah branch
+git branch -d nama_branch: untuk menghapus branch
+GIT merge nama_branch
+untuk menggabungkan commit dari 2 branch
+relatif terhadap branch yang aktif saat ini
+untuk melakukan merge harus dipastikan tidak ada file yang belom di commit
